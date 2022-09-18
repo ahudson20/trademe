@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">trademee</string>
+
+    <string name="price_current">Current price %1$s</string>
+    <string name="price_buy_now">Buy Now price %1$s</string>
+    <string name="price_asking">Asking price %1$s</string>
+</resources>
